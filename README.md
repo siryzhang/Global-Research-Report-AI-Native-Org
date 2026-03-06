@@ -1,7 +1,7 @@
 # 2026 全球 AI Native 组织全维度调研 · 交互式全景报告
 > 从"大语言模型"向"全局智能体生态"的范式跃迁——深度解码全球九大顶尖 AI 组织的技术演进、组织密码与未来蓝图。
 
-## 点击链接：[全球 AI Native 组织全维度调研](https://siryzhang.github.io/Global-Research-Report-AI-Native-Org/)
+🔗访问链接：[全球 AI Native 组织全维度调研](https://siryzhang.github.io/Global-Research-Report-AI-Native-Org/)
 
 ---
 
