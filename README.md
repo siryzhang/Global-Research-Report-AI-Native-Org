@@ -1,5 +1,5 @@
 # 2026 全球 AI Native 组织全维度调研 · 交互式全景报告
-
+点击链接：[全球 AI Native 组织全维度调研](https://siryzhang.github.io/Global-Research-Report-AI-Native-Org/)
 > 从"大语言模型"向"全局智能体生态"的范式跃迁——深度解码全球九大顶尖 AI 组织的技术演进、组织密码与未来蓝图。
 
 ---
@@ -43,21 +43,6 @@
 - **响应式设计** — 适配桌面端与移动端
 - **字体** — Noto Sans SC（中文）+ Space Mono（数据/标签）+ DM Sans（英文正文）
 - **配色方案** — 深色科技主题，蓝/绿/紫/橙四色辅助体系
-
-## 使用方式
-
-直接在浏览器中打开 `2026_AI_Native_全景报告.html` 即可，无需安装任何依赖或启动服务器。
-
-```bash
-# macOS
-open 2026_AI_Native_全景报告.html
-
-# Windows
-start 2026_AI_Native_全景报告.html
-
-# Linux
-xdg-open 2026_AI_Native_全景报告.html
-```
 
 ## 数据来源
 
